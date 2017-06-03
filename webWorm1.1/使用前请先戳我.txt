@@ -2,3 +2,5 @@
 2.然后直接双击"Let's rock!"即可
 
 若要更改搜索网址，请进入webWorm里进行修改
+
+案例：http://asiaresearch.daiwacm.com/eg/cgi-bin/files/china_internet_sector_160304.pdf#page=1
